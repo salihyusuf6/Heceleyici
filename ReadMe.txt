@@ -1,0 +1,1 @@
+klasör içinde çalıştırınız js dosyasına dokunmayınız ordaki mesaj.txt içine istediğiniz mesajı yazabilirsiniz
